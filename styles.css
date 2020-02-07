@@ -1,0 +1,12 @@
+.header {
+  height: 50px;
+  width: 90%;
+}
+
+.main {
+  background: grey;
+}
+
+.footer {
+  background: green;
+}
