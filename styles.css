@@ -1,6 +1,7 @@
 .header {
   height: 50px;
   width: 90%;
+  display: flex;
 }
 
 .main {
